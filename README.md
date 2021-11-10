@@ -7,3 +7,8 @@ Ademas de que cuenta con un sistema de login y se poseen 4 roles:
 -Estudiante
 
 Segun el rol del usuario, asi sera los privilegios de acceso a las diferentes funcionalidades de la pagina.
+
+
+#Como usarla
+Primero se debe realizar login hacia la pagina con un usuario valido, para tener acceso a todos los componentes se puede utilizar el user y password: admin admin.
+Una vez dentro se puede realizar diferentes operaciones como insertar datos, consultar una lista de los datos registrados, modificar datos o eliminarlos.
